@@ -1,0 +1,15 @@
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\bin\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.exe
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\bin\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.deps.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\bin\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.runtimeconfig.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\bin\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\bin\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\obj\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\obj\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.AssemblyInfoInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\obj\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.AssemblyInfo.cs
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\obj\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\obj\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.sourcelink.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\obj\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\obj\Debug\net8.0\refint\lab-12-palindromic-primes-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\obj\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\obj\Debug\net8.0\lab-12-palindromic-primes-ChrizpyCream.genruntimeconfig.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-12-palindromic-primes-ChrizpyCream\obj\Debug\net8.0\ref\lab-12-palindromic-primes-ChrizpyCream.dll
